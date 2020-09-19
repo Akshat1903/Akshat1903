@@ -8,8 +8,6 @@
 
 </span>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently exploring different possibilities in Django
 - 🥅 2020 Goals: Contribute more to Open Source projects
