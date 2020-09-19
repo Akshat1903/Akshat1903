@@ -1,16 +1,17 @@
-### Hi there 👋
+<span align="center">
+ <h1>Hi there, I am Akshat 👨‍💻 </h1>
 
-<!--
-**Akshat1903/Akshat1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/akshat_g_1903)
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/akshat-g-1903)
+[![](https://img.icons8.com/fluent/50/000000/facebook-new.png)](https://www.facebook.com/akshat.gupta.1460)
+[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/Akshat1903)
+
+</span>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently exploring different possibilities in Django
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything (except my secrets)
+
