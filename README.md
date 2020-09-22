@@ -13,3 +13,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything (except my secrets)
 
+**Languages and FrameWorks**
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
