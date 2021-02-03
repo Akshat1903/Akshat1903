@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently exploring different possibilities in Django
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything (except my secrets)
 
 **Languages and FrameWorks**
